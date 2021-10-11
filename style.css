@@ -45,7 +45,7 @@ header > nav > ul > li {
 #first-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background: url(/assets/digitalocean-banner.svg) center no-repeat;
+    background: url(/assets/digitalocean-banner.svg);
     place-items: center;
 }
 
